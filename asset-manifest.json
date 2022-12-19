@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/charani722/covid-tracker.git/static/css/main.bcaee07e.css",
+    "main.js": "/charani722/covid-tracker.git/static/js/main.d4729375.js",
+    "static/js/787.3353a8a3.chunk.js": "/charani722/covid-tracker.git/static/js/787.3353a8a3.chunk.js",
+    "index.html": "/charani722/covid-tracker.git/index.html",
+    "main.bcaee07e.css.map": "/charani722/covid-tracker.git/static/css/main.bcaee07e.css.map",
+    "main.d4729375.js.map": "/charani722/covid-tracker.git/static/js/main.d4729375.js.map",
+    "787.3353a8a3.chunk.js.map": "/charani722/covid-tracker.git/static/js/787.3353a8a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcaee07e.css",
+    "static/js/main.d4729375.js"
+  ]
+}
